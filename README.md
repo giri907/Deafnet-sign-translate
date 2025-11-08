@@ -1,9 +1,11 @@
 # Deafnet-sign-translate
 A digital platform/app designed to bridge the communication gap between the Deaf community and hearing individuals using sign language translation technology When technology listens with vision, even silence becomes powerful.
+
 🌐 Overview :-
 DeafNet is an AI-powered Sign Language Translator built to connect the Deaf and Hearing worlds.
 It uses Computer Vision, Deep Learning, and Natural Language Processing to translate sign language gestures into text and speech in real time.
 Our mission is to make communication inclusive, effortless, and universal — ensuring that every individual, regardless of hearing ability, can be heard and understood.
+
 ✨ Key Highlights:-
 🖐️ Real-Time Sign Recognition
 This is the core feature of DeafNet.
@@ -31,6 +33,7 @@ The goal is to make advanced AI accessible to everyone.
 DeafNet can run without an active internet connection.
 That means gesture recognition, translation, and speech output all work offline.
 This makes it highly useful in rural areas, classrooms, defense environments, or any location with limited connectivity.
+
 🧠 Tech Stack
 Category :- Technology
 Language :- Python
@@ -38,22 +41,38 @@ Libraries :-OpenCV · TensorFlow/Keras · Mediapipe · NumPy · Tkinter
 Tools :-Jupyter Notebook · VS Code
 Model :-CNN (Convolutional Neural Network) for Gesture Recognition
 Hardware :-Standard Webcam / Laptop Camera
-⚙️ Installation
+⚙️ Installation 
+
 1️⃣ Clone the repository:- git clone https://github.com/giri907/Deafnet-sign-translate.git cd DeafNet
 2️⃣ Install dependencies :- pip install -r requirements.txt
 3️⃣ Run the application:- python app.py  or  open the Jupyter version:- jupyter notebook DeafNet.ipynb
+
 🚀 Future Plans
 🤖 Add Emotion + Face Expression Detection
 🌍 Multilingual translation (English, Hindi, Bengali)
 ☁️ Deploy as a Streamlit / Flask Web App
 📱 Android App integration using Flutter + TensorFlow Lite
 🧠 Model optimization for faster real-time prediction
+
 💖 Why DeafNet?
 Because communication should never depend on hearing.
 Millions of Deaf individuals face daily challenges in expressing themselves.
 DeafNet is built to change that — by letting AI understand and translate sign language instantly.
 This isn’t just a project.
 It’s a step toward equality, empathy, and inclusion.
+
+ 🤝 Contributing
+Contributions are always welcome!
+If you'd like to improve DeafNet, feel free to:
+Fork the repository
+Create a feature branch
+Submit a pull request
+
+💡 Acknowledgements
+Inspired by the idea of making technology inclusive for the Deaf community.
+Thanks to open-source libraries like TensorFlow, OpenCV, and MediaPipe.
+Special appreciation to the Deaf and HH community for inspiring this project.
+
 
 
 Developed By
